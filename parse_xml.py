@@ -12,4 +12,4 @@ def parse_xml():
   
   result = soup.find_all(soup)
 
-  return result
+  return "Successful"
